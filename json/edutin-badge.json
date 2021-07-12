@@ -1,0 +1,26 @@
+{
+    "uid": "dfdsf8j",
+    "recipient": {
+      "identity": "test@gmail.com",
+      "type": "email",
+      "hashed": false
+    },
+    "issuedOn": "2016-12-31T23:59:59+00:00",
+    "badge": {
+        "name": "Curso de Python",
+        "description": "Condicionales, ciclos, Programación orientad a a objetos, Django.",
+        "image": "https://bryanldc.github.io/Badges/img/edutin-badge-image.png",
+        "criteria": "https://edutin.com/curso-de-python-4276",
+        "issuer": {
+            "name": "Edutin",
+            "url": "https://www.edutin.com",
+            "type": "Profile",
+            "email": "contact@example.org"
+        }
+    },
+    "verify": {
+      "type": "hosted",
+      "url": "https://bryanldc.github.io/Badges/json/openbadges-easy-badge-award.json"
+    },
+    "image":"https://bryanldc.github.io/Badges/img/edutin-badge-image.png"
+  }
