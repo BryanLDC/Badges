@@ -3,6 +3,7 @@
   "recipient": {
     "identity": "test@gmail.com",
     "type": "email",
+    "name": "Carlos Gutierrez",
     "hashed": false
   },
   "issuedOn": "2016-12-31T23:59:59+00:00",
