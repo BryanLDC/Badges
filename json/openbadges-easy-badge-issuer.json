@@ -1,6 +1,7 @@
 {
     "name": "Edutin",
     "url": "https://www.edutin.com",
-    "type": "Profile",
-    "email": "contact@example.org"
+    "type": "Issuer",
+    "email": "edutin@example.org",
+    "description": "Edutin Academy es una incorporación de educación virtual, constituida en Delaware - Estados Unidos, dedicada a compartir el conocimiento."
 }
