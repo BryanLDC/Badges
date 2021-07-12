@@ -1,7 +1,5 @@
 {
-  "@context": "https://w3id.org/openbadges/v2",
   "uid": "dfdsf8j",
-  "type": "Assertion",
   "recipient": {
     "identity": "test@gmail.com",
     "type": "email",
