@@ -1,4 +1,6 @@
 {
     "name": "Edutin",
-    "url": "https://www.edutin.com"
+    "url": "https://www.edutin.com".
+    "type": "Profile",
+    "email": "contact@example.org"
 }
