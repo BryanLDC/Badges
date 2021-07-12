@@ -1,5 +1,7 @@
 {
-  "uid": "a1b2c3d4e5",
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://example.org/assertions/123",
+  "type": "Assertion",
   "recipient": {
     "identity": "test@gmail.com",
     "type": "email",
