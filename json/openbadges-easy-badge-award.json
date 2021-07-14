@@ -1,6 +1,6 @@
 {
   "@context":"https://w3id.org/openbadges/v2",
-  "id": "dfdsf8j",
+  "id": "https://bryanldc.github.io/Badges/json/openbadges-easy-badge-award.json",
   "recipient": {
     "identity": "test@gmail.com",
     "type": "email",
