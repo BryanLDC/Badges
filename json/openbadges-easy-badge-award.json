@@ -1,5 +1,6 @@
 {
-  "uid": "dfdsf8j",
+  "@context":"https://w3id.org/openbadges/v2",
+  "id": "dfdsf8j",
   "recipient": {
     "identity": "test@gmail.com",
     "type": "email",
