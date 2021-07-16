@@ -8,7 +8,7 @@
     "name": "Carlos Gutierrez",
     "hashed": false
   },
-  "extensions:certificationExtension": {
+  "extensions:certification": {
     "@context":"https://bryanldc.github.io/Badges/json/openbadges-easy-badge-certification-extension.json",
     "type": ["Extension", "extensions:CertificationExtension"],
     "time": 600
