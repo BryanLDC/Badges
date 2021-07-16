@@ -8,7 +8,7 @@
     "name": "Carlos Gutierrez",
     "hashed": false
   },
-  "extensions:extraDescription":
+  "extensions:extraDescription":[
     {
       "@context":"https://purl.imsglobal.org/spec/ob-exdesc/v1p0/context/",
       "type": ["Extension", "extensions:ExtraDescriptionExtension"],
@@ -21,7 +21,7 @@
       "name": "Testing",
       "narrative": "Test de atributo adicional"
     }
-  },
+  ],
   "issuedOn": "2016-12-31T23:59:59+00:00",
   "badge": "https://bryanldc.github.io/Badges/json/openbadges-easy-badge-class.json",
   "verify": {
