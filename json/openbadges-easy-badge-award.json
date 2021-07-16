@@ -12,7 +12,13 @@
     "@context":"https://purl.imsglobal.org/spec/ob-exdesc/v1p0/context/",
     "type": ["Extension", "extensions:ExtraDescriptionExtension"],
     "name": "hours of study",
-    "narrative": "has invested (10 hours) of study to successfully complete the course and obtain the certificate in"
+    "narrative": "10 hours",
+    ,{
+    "@context":"https://purl.imsglobal.org/spec/ob-exdesc/v1p0/context/",
+    "type": ["Extension", "extensions:ExtraDescriptionExtension"],
+    "name": "Testing",
+    "narrative": "Test de atributo adicional"
+  }
   },
   "issuedOn": "2016-12-31T23:59:59+00:00",
   "badge": "https://bryanldc.github.io/Badges/json/openbadges-easy-badge-class.json",
