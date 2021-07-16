@@ -8,5 +8,5 @@
       "type": "string"
     }
   },
-  "required": ["description"]
+  "required": ["score"]
 }
