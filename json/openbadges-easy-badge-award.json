@@ -8,7 +8,7 @@
     "name": "Carlos Gutierrez",
     "hashed": false
   },
-"recipientProfile": {
+  "recipientProfile": {
     "type": ["RecipientProfile", "Extension"],
     "name": "Eularia Landroth",
   },
