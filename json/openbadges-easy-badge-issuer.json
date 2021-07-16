@@ -1,4 +1,6 @@
 {
+    "@context":"https://w3id.org/openbadges/v2",
+    "id": "https://bryanldc.github.io/Badges/json/openbadges-easy-badge-issuer.json",
     "name": "Edutin",
     "url": "https://www.edutin.com",
     "type": "Issuer",
