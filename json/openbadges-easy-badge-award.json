@@ -8,11 +8,8 @@
     "name": "Carlos Gutierrez",
     "hashed": false
   },
-  "extensions:recipientProfile": {
-                "type": [
-                    "Extension",
-                    "extensions:RecipientProfile"
-                ],
+  "recipientProfile": {
+                "type": ["Extension","extensions:RecipientProfile"],
                 "name": "Mohan Pawar"
             },
   "issuedOn": "2016-12-31T23:59:59+00:00",
