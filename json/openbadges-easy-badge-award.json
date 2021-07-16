@@ -9,7 +9,7 @@
     "hashed": false
   },
   "extensions:certificationExtension": {
-    "@context":"openbadges-easy-badge-certification-extension.json",
+    "@context":"https://bryanldc.github.io/Badges/json/openbadges-easy-badge-certification-extension.json",
     "type": ["Extension", "extensions:CertificationExtension"],
     "time": 600
   },
