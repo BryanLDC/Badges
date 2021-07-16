@@ -11,7 +11,7 @@
   "extensions:certificationExtension": {
     "@context":"https://bryanldc.github.io/Badges/json/openbadges-easy-badge-certification-extension.json",
     "type": ["Extension", "extensions:CertificationExtension"],
-    "time": "600"
+    "time": 600
   },
   "issuedOn": "2016-12-31T23:59:59+00:00",
   "badge": "https://bryanldc.github.io/Badges/json/openbadges-easy-badge-class.json",
