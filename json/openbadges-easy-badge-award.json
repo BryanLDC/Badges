@@ -8,9 +8,9 @@
     "name": "Carlos Gutierrez",
     "hashed": false
   },
-  "extensions:extraDescription": {
-    "@context":"https://purl.imsglobal.org/spec/ob-exdesc/v1p0/context/",
-    "type": ["Extension", "extensions:ExtraDescriptionExtension"],
+  "extensions:certificationExtension": {
+    "@context":"openbadges-easy-badge-certification-extension.json",
+    "type": ["Extension", "extensions:CertificationExtension"],
     "time": 600
   },
   "issuedOn": "2016-12-31T23:59:59+00:00",
