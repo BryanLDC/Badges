@@ -8,10 +8,10 @@
     "name": "Carlos Gutierrez",
     "hashed": false
   },
-  "recipientProfile": {
-                "type": ["Extension","extensions:RecipientProfile"],
-                "name": "Mohan Pawar"
-            },
+"recipientProfile": {
+    "type": ["RecipientProfile", "Extension"],
+    "name": "Eularia Landroth",
+  },
   "issuedOn": "2016-12-31T23:59:59+00:00",
   "badge": "https://bryanldc.github.io/Badges/json/openbadges-easy-badge-class.json",
   "verify": {
