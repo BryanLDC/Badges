@@ -5,7 +5,7 @@
   "type": "object",
   "properties": {
     "time": {
-      "type": "int"
+      "type": "integer"
     }
   },
   "required": ["time"]
