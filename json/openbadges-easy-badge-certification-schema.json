@@ -4,9 +4,9 @@
   "description": "An extension to Open Badges that allows issuers to add additional titled sections of descriptive content to their badges and profiles.",
   "type": "object",
   "properties": {
-    "name": {
+    "time": {
       "type": "string"
     }
   },
-  "required": ["name"]
+  "required": ["time"]
 }
