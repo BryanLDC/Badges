@@ -8,10 +8,11 @@
     "name": "Carlos Gutierrez",
     "hashed": false
   },
-  "extensions:certificationExtension": {
-    "@context":"https://bryanldc.github.io/Badges/json/openbadges-easy-badge-certification-extension.json",
-    "type": ["Extension", "extensions:CertificationExtension"],
-    "time": 600
+  "extensions:extraDescription": {
+    "@context":"https://purl.imsglobal.org/spec/ob-exdesc/v1p0/context/",
+    "type": ["Extension", "extensions:ExtraDescriptionExtension"],
+    "name": "Related Roller Coasters",
+    "narrative": "Here are two roller coasters that will give you a similar experience to undergoing assessment for this badge.\n\n* [Tempesto](https://www.youtube.com/watch?v=ZCKhkRPq8rI), Busch Gardens, Williamsburg\n* [Fantasia Mini Special Kiddie Roller Coaster](https://www.youtube.com/watch?v=bisz3CJZDpA), Tongdo Fantasia, South Korea"
   },
   "issuedOn": "2016-12-31T23:59:59+00:00",
   "badge": "https://bryanldc.github.io/Badges/json/openbadges-easy-badge-class.json",
