@@ -18,7 +18,7 @@
     "type": ["Extension", "extensions:ExtraDescriptionExtension"],
     "name": "Related Poem",
     "narrative": "Badges may be round, \nmore commonly hexes, \nThey've got great illustrations, \nSometimes of T-Rexes.\n\nSee this [example badge image](http://hexb.in/hexagons/offline-trex.png)."
-  }]
+  }],
   "issuedOn": "2016-12-31T23:59:59+00:00",
   "badge": "https://bryanldc.github.io/Badges/json/openbadges-easy-badge-class.json",
   "verify": {
