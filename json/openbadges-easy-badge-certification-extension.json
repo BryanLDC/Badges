@@ -6,7 +6,7 @@
   "obi:validation": [
     {
       "obi:validatesType": "extensions:CertificationExtension",
-      "obi:validationSchema": "http://purl.imsglobal.org/spec/ob-exdesc/v1p0/schema/"
+      "obi:validationSchema": "https://bryanldc.github.io/Badges/json/openbadges-easy-badge-certification-schema.json"
     }
   ]
 }
